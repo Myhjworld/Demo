@@ -1,0 +1,12 @@
+/Users/houjian/Documents/code/NetCorePrj/Dome/Demo.ConsoleApp/bin/Debug/netcoreapp3.1/Demo.ConsoleApp.deps.json
+/Users/houjian/Documents/code/NetCorePrj/Dome/Demo.ConsoleApp/bin/Debug/netcoreapp3.1/Demo.ConsoleApp.runtimeconfig.json
+/Users/houjian/Documents/code/NetCorePrj/Dome/Demo.ConsoleApp/bin/Debug/netcoreapp3.1/Demo.ConsoleApp.runtimeconfig.dev.json
+/Users/houjian/Documents/code/NetCorePrj/Dome/Demo.ConsoleApp/bin/Debug/netcoreapp3.1/Demo.ConsoleApp.dll
+/Users/houjian/Documents/code/NetCorePrj/Dome/Demo.ConsoleApp/bin/Debug/netcoreapp3.1/Demo.ConsoleApp.pdb
+/Users/houjian/Documents/code/NetCorePrj/Dome/Demo.ConsoleApp/obj/Debug/netcoreapp3.1/Demo.ConsoleApp.csprojAssemblyReference.cache
+/Users/houjian/Documents/code/NetCorePrj/Dome/Demo.ConsoleApp/obj/Debug/netcoreapp3.1/Demo.ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/houjian/Documents/code/NetCorePrj/Dome/Demo.ConsoleApp/obj/Debug/netcoreapp3.1/Demo.ConsoleApp.AssemblyInfoInputs.cache
+/Users/houjian/Documents/code/NetCorePrj/Dome/Demo.ConsoleApp/obj/Debug/netcoreapp3.1/Demo.ConsoleApp.AssemblyInfo.cs
+/Users/houjian/Documents/code/NetCorePrj/Dome/Demo.ConsoleApp/obj/Debug/netcoreapp3.1/Demo.ConsoleApp.dll
+/Users/houjian/Documents/code/NetCorePrj/Dome/Demo.ConsoleApp/obj/Debug/netcoreapp3.1/Demo.ConsoleApp.pdb
+/Users/houjian/Documents/code/NetCorePrj/Dome/Demo.ConsoleApp/obj/Debug/netcoreapp3.1/Demo.ConsoleApp.genruntimeconfig.cache
