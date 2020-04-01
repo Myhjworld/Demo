@@ -41,7 +41,7 @@ namespace Demo.WebApiApp.Controllers
         [HttpGet]
         public string Get()
         {
-            return "yes";
+            return "yes dev";
         }
 
     }
