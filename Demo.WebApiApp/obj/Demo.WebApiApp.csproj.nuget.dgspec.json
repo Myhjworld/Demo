@@ -17,7 +17,7 @@
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/houjian/.nuget/NuGet/NuGet.Config"
+          "/Users/houjian/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -38,12 +38,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "NewtonSoft": {
-              "target": "Package",
-              "version": "[*, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
