@@ -20,10 +20,17 @@ namespace Demo.ConsoleApp.EFCoreMysql
                 Console.WriteLine($"姓名：{item.Name}，ID:{item.ID}");
             }
         }
-        public void Add(User user)
+
+        public void ShowIn()
         {
-            _dB.User.Add(user);
-            _dB.SaveChanges();
+            var user = _dB.Set<User>().Where(u=>new int[]{1,3}.Contains(u.ID));
+
+            foreach (var item in user)
+            {
+                Console.WriteLine($"姓名：{item.Name}，ID:{item.ID}");
+            }
         }
+
+        
     }
 }

@@ -10,16 +10,16 @@ namespace Demo.ConsoleApp
         {
             Console.WriteLine("Hello World!");
             var a = new TestClass();
-            a.Show();
+            a.ShowIn();
 
-            User user = new User()
-            {
-                Name = "hj2",
-                Age = 13,
-                Price = 14,
-                CreateTime = DateTime.Now
-            };
-            a.Add(user);
+            // User user = new User()
+            // {
+            //     Name = "hj2",
+            //     Age = 13,
+            //     Price = 14,
+            //     CreateTime = DateTime.Now
+            // };
+            // a.Add(user);
         }
     }
 }
