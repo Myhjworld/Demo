@@ -9,8 +9,11 @@ namespace Demo.ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            var a = new TestClass();
-            a.ShowIn();
+            // var a = new TestClass();
+            // a.ShowIn();
+
+            MultiThreads.testM test=new MultiThreads.testM();
+            test.showInfo();
 
             // User user = new User()
             // {

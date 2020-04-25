@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "9UX//WlmW0hdh8Pu86Wb9Ic2hoCuNx1sK84+b5BrS1dKc/quClCcLDkVFhbXAPTCaOLXWjlaIgaP/9XBKT4xYQ==",
+  "success": true,
+  "projectFilePath": "/Users/houjian/Documents/code/NetCorePrj/Dome/BaseService/BaseService.csproj",
+  "expectedPackageFiles": [
+    "/Users/houjian/.nuget/packages/easycaching.core/0.8.3/easycaching.core.0.8.3.nupkg.sha512",
+    "/Users/houjian/.nuget/packages/easycaching.inmemory/0.8.4/easycaching.inmemory.0.8.4.nupkg.sha512",
+    "/Users/houjian/.nuget/packages/microsoft.extensions.configuration/3.1.0/microsoft.extensions.configuration.3.1.0.nupkg.sha512",
+    "/Users/houjian/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.0/microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
+    "/Users/houjian/.nuget/packages/microsoft.extensions.configuration.binder/3.1.0/microsoft.extensions.configuration.binder.3.1.0.nupkg.sha512",
+    "/Users/houjian/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.0/microsoft.extensions.dependencyinjection.3.1.0.nupkg.sha512",
+    "/Users/houjian/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.0/microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "/Users/houjian/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.0/microsoft.extensions.fileproviders.abstractions.3.1.0.nupkg.sha512",
+    "/Users/houjian/.nuget/packages/microsoft.extensions.hosting.abstractions/3.1.0/microsoft.extensions.hosting.abstractions.3.1.0.nupkg.sha512",
+    "/Users/houjian/.nuget/packages/microsoft.extensions.http/3.1.0/microsoft.extensions.http.3.1.0.nupkg.sha512",
+    "/Users/houjian/.nuget/packages/microsoft.extensions.logging/3.1.0/microsoft.extensions.logging.3.1.0.nupkg.sha512",
+    "/Users/houjian/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.0/microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "/Users/houjian/.nuget/packages/microsoft.extensions.options/3.1.0/microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "/Users/houjian/.nuget/packages/microsoft.extensions.options.configurationextensions/3.1.0/microsoft.extensions.options.configurationextensions.3.1.0.nupkg.sha512",
+    "/Users/houjian/.nuget/packages/microsoft.extensions.primitives/3.1.0/microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "/Users/houjian/.nuget/packages/nacos-sdk-csharp-unofficial/0.2.5/nacos-sdk-csharp-unofficial.0.2.5.nupkg.sha512",
+    "/Users/houjian/.nuget/packages/nacos-sdk-csharp-unofficial.aspnetcore/0.2.5/nacos-sdk-csharp-unofficial.aspnetcore.0.2.5.nupkg.sha512",
+    "/Users/houjian/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/houjian/.nuget/packages/system.diagnostics.diagnosticsource/4.6.0/system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,34 +1,30 @@
-﻿<Properties StartupConfiguration="{C6FBDD34-928C-4774-B69A-FB5F583CD1AC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Demo.ConsoleApp/Program.cs">
+﻿<Properties StartupConfiguration="{2FC9E9D7-2387-4693-98CD-88FDB8C9B9CF}|Default">
+  <MonoDevelop.Ide.ItemProperties.RequestInfo FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BaseService/appsettings.json">
     <Files>
-      <File FileName="Demo.ConsoleApp/Program.cs" Line="16" Column="14" />
-      <File FileName="Demo.ConsoleApp/EFCoreMysql/Model/User.cs" Line="9" Column="41" />
-      <File FileName="Demo.ConsoleApp/EFCoreMysql/DBContext.cs" Line="15" Column="31" />
-      <File FileName="Demo.ConsoleApp/EFCoreMysql/TestClass.cs" Line="20" Column="52" />
+      <File FileName="BaseService/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="BaseService/Startup.cs" Line="1" Column="1" />
+      <File FileName="BaseService/appsettings.json" Line="1" Column="1" />
+      <File FileName="BaseService/appsettings.Development.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Dome" expanded="True">
-            <Node name="Demo.ConsoleApp" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="FrameworkReferences" expanded="True" />
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
-              <Node name="EFCoreMysql" expanded="True">
-                <Node name="Model" expanded="True" />
-              </Node>
-              <Node name="Program.cs" selected="True" />
+            <Node name="BaseService" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="appsettings.json" expanded="True" selected="True" />
             </Node>
-            <Node name="Demo.MVCApp" expanded="True">
+            <Node name="RequestInfo" expanded="True">
               <Node name="Dependencies" expanded="True">
                 <Node name="FrameworkReferences" expanded="True" />
               </Node>
             </Node>
-            <Node name="Demo.WebApiApp" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="FrameworkReferences" expanded="True" />
+            <Node name="Service1" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="Nacos" expanded="True" />
               </Node>
+              <Node name="Properties" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -38,6 +34,7 @@
   <MonoDevelop.Ide.ItemProperties.Demo.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Service1 PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

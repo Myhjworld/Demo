@@ -25,6 +25,7 @@ namespace BaseService
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddNacosAspNetCore(Configuration);
             services.AddControllers();
         }
 
@@ -46,6 +47,9 @@ namespace BaseService
             {
                 endpoints.MapControllers();
             });
+
+            //加上这句话发布后运行会报错，暂无解决办法
+            app.UseNacosAspNetCore();
         }
     }
 }

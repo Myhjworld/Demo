@@ -6,4 +6,8 @@
 
 
 
+  <ItemGroup>
+    <PackageReference Include="HttpReports.Dashboard" Version="1.2.6" />
+    <PackageReference Include="HttpReports.MySQL" Version="1.2.4" />
+  </ItemGroup>
 </Project>
